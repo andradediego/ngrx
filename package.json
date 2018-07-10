@@ -39,7 +39,6 @@
     "moment": "^2.20.1",
     "ngrx-store-freeze": "^0.2.1",
     "rxjs": "^6.2.0",
-    "rxjs-compat": "^6.1.0",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
